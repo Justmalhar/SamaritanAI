@@ -1,0 +1,24 @@
+{
+  "name": "samaritanai",
+  "version": "1.0.0",
+  "description": "AI that makes life easier ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Justmalhar/SamaritanAI.git"
+  },
+  "author": "Malhar Ujawane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Justmalhar/SamaritanAI/issues"
+  },
+  "homepage": "https://github.com/Justmalhar/SamaritanAI#readme",
+  "dependencies": {
+    "es6-promise": "^4.2.8",
+    "fetch": "^1.1.0",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
