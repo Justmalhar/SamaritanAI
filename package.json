@@ -20,7 +20,7 @@
     "@google/maps": "^0.5.5",
     "es6-promise": "^4.2.8",
     "fetch": "^1.1.0",
-    "isomorphic-fetch": "^2.2.1",
+    "isomorphic-fetch": "^3.0.0",
     "moment": "^2.24.0"
   }
 }
